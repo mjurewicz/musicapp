@@ -24,5 +24,3 @@
   * [Spotify API](https://developer.spotify.com/technologies/metadata-api/search/)
   * [Unofficial Google Music API](http://unofficial-google-music-api.readthedocs.org/en/latest/reference/mobileclient.html)
   * [Message Pack](http://msgpack.org/)
-
-- Sinch SDK allows users to send/recieve messages (music suggestions) over the internet
